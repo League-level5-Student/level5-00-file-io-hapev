@@ -7,6 +7,8 @@ public class ToDoList {
 	 * When add task is clicked:
 	 * 		ask the user for a  task and save it to an array list
 	 * 
+	 * 
+	 * 
 	 * When the view tasks button is clicked:
 	 *		show all the tasks in the list
 	 * 
